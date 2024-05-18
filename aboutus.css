@@ -1,0 +1,66 @@
+.nav{
+    color:white;
+    background-color:black;
+    border-radius:1px;
+    -webkit-border-radius:1px;
+    -moz-border-radius:1px;
+    -ms-border-radius:1px;
+    -o-border-radius:1px;
+    text-align:center;
+}
+
+.container{
+    text-align:left;
+   background-image:url("https://img.freepik.com/premium-photo/man-boat-is-floating-water-with-smoke-floating-background_176841-12100.jpg?w=1380");
+    height:650px;
+    background-size:cover;
+    width:2500px;
+
+    
+
+}
+.caro{
+    height:400px;
+    width:500px;
+    float: right;
+    margin-left: auto;
+    padding:20px;
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -ms-border-radius:50%;
+    -o-border-radius:50%;
+}
+.hg {
+    font-family: Bree Serif;
+    font-style:bold;
+    font-size:90px;
+    color: white;
+    text-align:center;
+
+
+}
+.para1{
+    font-family: Bree Serif;
+    font-style:italic;
+    font-size:20px;
+
+    color:white;
+    margin-top: 20px;
+    padding: 0 20px;
+}
+
+    
+    
+   
+
+.navbar-image{
+    height:40px;
+    width:40px;
+    padding:5px;
+}
+.t{
+    color:white;
+    font-family:roboto;
+    font-size:16px;
+}

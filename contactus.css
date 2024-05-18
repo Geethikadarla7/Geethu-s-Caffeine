@@ -1,0 +1,27 @@
+.container{
+   background-image:url("https://img.freepik.com/free-photo/top-view-chocolate-dessert-with-copy-space_23-2148689865.jpg?t=st=1716029459~exp=1716033059~hmac=b79b1359de48a83d526db2a0a9291f2264db7b9af7153ef1d5f01ac92bbcb5cf&w=826");
+   background-size:cover; 
+   height:550;
+    width:570px;
+}
+.mg{
+    border-style:solid;
+    margin: 10px;
+    
+   
+}
+.img{
+    height:470px;
+    width:520px;
+    position: center;
+    margin-right:20px;
+}
+.cont1{
+    color:blanchedalmond;
+    text-align:center;
+}
+.t{
+    text-align:left;
+    color:white;
+    padding:12px;
+}

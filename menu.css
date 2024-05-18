@@ -1,0 +1,31 @@
+.container{
+  background-image:url("https://img.freepik.com/premium-photo/cup-hot-coffee-as-breakfast-drink-flatlay-cups-brown-background_360074-29433.jpg?w=826");
+  background-size:cover;
+    height:950px;
+    width:1250px;
+    padding:0px;
+}
+.mg{
+    border-style:solid;
+    border-color:burlywood;
+    margin: 10px;
+    
+   
+}
+.img{
+    height:270px;
+    width:290px;
+    position: center;
+    padding:70px;
+    margin-bottom:20px;
+}
+.cont{
+    text-align:center;
+    font-size:20px;
+    color:white;
+    
+}
+.cont1{
+    color:blanchedalmond;
+    text-align:center;
+}

@@ -1,0 +1,31 @@
+.container{
+    background-color: black;
+    height:950px;
+    width:1250px;
+    padding:0px;
+}
+.mg{
+    border-style:solid;
+    border-color:burlywood;
+    margin: 10px;
+    
+   
+}
+.img{
+    height:270px;
+    width:290px;
+    position: center;
+    padding:70px;
+    margin-bottom:20px;
+    border-radius:50%;
+}
+.cont{
+    text-align:center;
+    font-size:20px;
+    color:white;
+    
+}
+.cont1{
+    color:blanchedalmond;
+    text-align:center;
+}

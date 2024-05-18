@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.heading {
+    background-image: url("https://img.freepik.com/free-photo/fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.jpg?t=st=1715096686~exp=1715100286~hmac=590972afdda513636545162457a843964ac4a61828b4e5b3958afe2b76f5300f&w=996");
+    height: 100vh;
+    width: 1400px;
+    background-size: cover;
+}
+.nav{
+    color:white;
+    background-color:black;
+    border-radius:1px;
+    -webkit-border-radius:1px;
+    -moz-border-radius:1px;
+    -ms-border-radius:1px;
+    -o-border-radius:1px;
+    text-align:center;
+}
+
+
+.heading1 {
+    font-family: Bree Serif;
+    font-style:bold;
+    font-size:90px;
+    color:white
+}
+.para{
+    font-family: Bree Serif;
+    font-style:italic;
+    font-size:20px;
+
+    color:white
+}
+
+.button {
+    background-color:orange;
+    border-radius: 12px;
+    border-width: 0px;
+    width: 110px;
+    padding: 10px;
+
+
+}
+.navbar-image{
+    height:40px;
+    width:40px;
+    padding:5px;
+}
+.t{
+    color:white;
+    font-family:roboto;
+    font-size:16px;
+}
