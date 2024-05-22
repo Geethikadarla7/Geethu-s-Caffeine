@@ -20,17 +20,16 @@
 
 }
 .caro{
-    height:400px;
-    width:500px;
+    
     float: right;
     margin-left: auto;
-    padding:20px;
+    padding: 20px;
+    height:470px;
+    width:490px;
+    position: center;
     border-radius:50%;
-    -webkit-border-radius:50%;
-    -moz-border-radius:50%;
-    -ms-border-radius:50%;
-    -o-border-radius:50%;
 }
+
 .hg {
     font-family: Bree Serif;
     font-style:bold;
